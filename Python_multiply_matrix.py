@@ -78,3 +78,4 @@ if __name__=='__main__':
         '/':lambda a,b:a/b,
     }
     print(dict_func['+'](10,9))
+    print (dict_func['*'](1,8))
